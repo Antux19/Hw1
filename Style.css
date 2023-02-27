@@ -1,0 +1,70 @@
+*{
+margin: 0;
+padding: 0;
+}
+.Info{
+    border: 4px dotted #000;
+    width: 30%;
+    margin-bottom: 20px;
+    margin-left: 36%;
+    margin-top: 20px;
+    border-radius: 25%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 28px;
+
+}
+.Introduction{
+    border: 4px dotted #000;
+    width: 30%;
+    margin-bottom: 20px;
+    margin-left: 36%;
+    margin-top: 20px;
+    border-radius: 25%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 28px;
+
+}
+.Interests{
+    border: 4px dotted #000;
+    width: 30%;
+    margin-bottom: 20px;
+    margin-left: 36%;
+    margin-top: 20px;
+    border-radius: 25%;
+    background-color: darkgreen;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+
+}
+.Courses{
+    border: 4px dotted #000;
+    width: 30%;
+    margin-bottom: 20px;
+    margin-left: 36%;
+    margin-top: 20px;
+    border-radius: 25%;
+    background-color: blue ;
+    color: white;
+    text-align: center;
+    font-size: 28px;
+
+}
+.My_Paragraph{
+    border: 4px dotted #000;
+    width: 30%;
+    margin-bottom: 20px;
+    margin-left: 36%;
+    margin-top: 20px;
+    border-radius: 25%;
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    font-size: 28px;
+
+
+}
